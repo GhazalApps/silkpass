@@ -2,4 +2,4 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 export const SITE_TITLE = "SilkPass";
-export const SITE_DESCRIPTION = "Lorem ipsum.";
+export const SITE_DESCRIPTION = "Always with you.";
